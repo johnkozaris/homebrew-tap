@@ -14,7 +14,7 @@ cask "kodosi" do
 
   auto_updates true
   depends_on arch: :arm64
-  depends_on macos: ">= :tahoe"
+  depends_on macos: :tahoe
 
   app "Kodosi.app"
   binary "#{appdir}/Kodosi.app/Contents/MacOS/Kodosi", target: "kodosi"
