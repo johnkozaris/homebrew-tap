@@ -1,6 +1,6 @@
 cask "kodosi" do
-  version "0.2.0"
-  sha256 "66d90d2d99376b1e2310e5fec7d90fd195471d25a8e766a6d04e52094136d1e7"
+  version "0.2.1"
+  sha256 "0ed76376a83ac7df1b6d86368479902f9621d03d8fb63be912910fbd95fe6295"
 
   url "https://github.com/johnkozaris/Kodosi/releases/download/v#{version}/Kodosi-#{version}.dmg"
   name "Kodosi"
