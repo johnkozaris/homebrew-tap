@@ -1,10 +1,10 @@
 cask "kodosi" do
-  version "0.4.1"
-  sha256 "f01c15596b0d65479ecd0d87457b5586d4a0a8054f24f3b54294e86b3659ebd9"
+  version "0.4.2"
+  sha256 "3f72f5ca8c223f6d5e91c5ea93ec30c232d4b7b59cbad58dcfdb13165a3b2fb4"
 
   url "https://github.com/johnkozaris/Kodosi/releases/download/v#{version}/Kodosi-#{version}.dmg"
   name "Kodosi"
-  desc "Shared terminals and rooms for people and their coding agents"
+  desc "Shared terminals and projects for people and their coding agents"
   homepage "https://kodosi.com"
 
   livecheck do
